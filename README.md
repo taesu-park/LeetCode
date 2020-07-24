@@ -14,4 +14,5 @@ solve a problem every day!
 4. [Remove Linked List Elements](https://tsoo1014.tistory.com/19?category=931909) [[코드]](https://github.com/taesu-park/LeetCode/tree/master/JulyLeetCodingChallenge/July_ex04.py)
 5. [Word Search](https://tsoo1014.tistory.com/22?category=931909) [[코드]](https://github.com/taesu-park/LeetCode/tree/master/JulyLeetCodingChallenge/July_ex05.py)
 6. [Binary Tree Zigzag Level Order Traversal](https://tsoo1014.tistory.com/23?category=931909) [[코드]](https://github.com/taesu-park/LeetCode/tree/master/JulyLeetCodingChallenge/July_ex06.py)
+7. [Single Number III](https://tsoo1014.tistory.com/25?category=931909) [[코드]](https://github.com/taesu-park/LeetCode/tree/master/JulyLeetCodingChallenge/July_ex07.py)
 
